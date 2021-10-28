@@ -12,12 +12,5 @@ class Pizzaiolo extends User {
         parent::__construct($lastname, $firstname);
     }
 
-    public function __toString(): string{
-        {
-            $response="{\"LastName\" : \"$this->lastname\",
-FirstName\" : \"$this->firstname\",";
-            return $response;
-        }
-    }
     
 }

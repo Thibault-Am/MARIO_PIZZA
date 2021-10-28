@@ -1,27 +1,27 @@
-# Projet Mario Pizza
+# Project Mario Pizza
 
-## Sujet
+## Topic
 
-Conception et implémentation d'un logiciel de commande de pizza avec différentes fonctionnalitées: 
-- constituer les pizzas parmi les recettes
-- retirer un ou plusieurs ingrédients
-- composer des pizzas sur mesure
-- administrer (les recettes,les tarifs, les pizzas,les ingrédients)
-- information lorsqu'une commande est passé
+Design and implementation of pizza ordering software with different functionalities:
+- constitute the pizzas among the recipes
+- remove one or more ingredients
+- compose made-to-measure pizzas
+- administer (recipes, prices, pizzas, ingredients)
+- information when an order is placed
 
-## Acteurs et interactions Homme / Machine
+## Actors and Human / Machine interactions
 
-- Le système correspond au logiciel de commande et de maintenance
-- L'acteur primaire est le "Client" (choisir, modifier, créer sa pizza et commander)
-- Les 2 acteurs secondaire son l'"Administrateur" et le "Cuisinier" (administrer, être informé)
+- The system corresponds to the control and maintenance software
+- The primary actor is the "Client" (choose, modify, create his pizza and order)
+- The 2 secondary actors are the "Administrator" and the "Cook" (administer, be informed)
 
-## Spécifications techniques
+## Technical specifications
 
-### Langage de programmation 
+### Programming language
 
-Programmation Orienté Objet en langage PHP
+Object Oriented Programming in PHP language
 
-### Version PHP
+### PHP version
 
 PHP 7.4.3
 
