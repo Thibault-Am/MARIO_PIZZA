@@ -17,6 +17,7 @@ Design and implementation of pizza ordering software with different functionalit
 
 ## Technical specifications
 
+There is a folder with my user storie, activity diagram, and use case diagram
 ### Programming language
 
 Object Oriented Programming in PHP language
